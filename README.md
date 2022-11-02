@@ -3,9 +3,11 @@
 Only type this
 
 - Linux
+
 `pip3 install phonenumbers`
 
 - Windows
+
 `pip install phonenumbers`
 
 # Use
