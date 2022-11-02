@@ -12,8 +12,10 @@ Only type this
 
 # Use
 Change the number for your number & ignore the symbol's < > (do't type the symbols)
-## Linux
+- Linux
+
 `python3 main.py <+911234567890>`
 
-## Windows
+- Windows
+
 `python main.py <+911234567890>`
