@@ -23,3 +23,8 @@ Change the number for your number & ignore the symbol's < > (do't type the symbo
 - Windows
 
 `python main.py <+911234567890>`
+
+
+# ALERT 
+
+For academic purposes, I do not become self-reluctant for misuse
