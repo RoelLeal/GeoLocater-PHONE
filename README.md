@@ -2,10 +2,10 @@
 
 Only type this
 
-# Linux
+- Linux
 `pip3 install phonenumbers`
 
-# Windows
+- Windows
 `pip install phonenumbers`
 
 # Use
