@@ -1,5 +1,9 @@
 # GeoLocater-PHONE
 
+- Download
+
+`git clone https://github.com/RoelLeal/GeoLocater-PHONE`
+
 Only type this
 
 - Linux
